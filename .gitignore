@@ -1,0 +1,10 @@
+*_description.txt
+*_log.txt
+*_metadata.txt
+*.csv
+*.hdf5
+DIC/
+old/
+Post_EBSD/
+Post_HREBSD/
+Pre_EBSD/

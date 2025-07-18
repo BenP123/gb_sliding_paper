@@ -8,3 +8,5 @@ old/
 Post_EBSD/
 Post_HREBSD/
 Pre_EBSD/
+*.png
+*.txt
